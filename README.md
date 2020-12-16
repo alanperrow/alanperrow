@@ -1,6 +1,3 @@
-# Alan Perrow
-*Aspiring software engineer for front-end or full-stack development*
-
 ### University of Central Florida
 Computer Science (B.S.) - Spring 2021
 
