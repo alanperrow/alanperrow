@@ -12,6 +12,10 @@ Final group project for my Computer Graphics (CAP4720) course: https://observabl
 ## Learning
 Sharpening skills in Python, particularly in machine learning
 
+Linux/Unix shell programming in C
+
+Java applications with event-driven programming
+
 Applying skills learned from Observable and REGL to other graphic libararies such as OpenGL and WebGL
 
 <!--
