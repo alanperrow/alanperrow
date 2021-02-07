@@ -8,6 +8,8 @@ Senior Design team project sponsored by Lockheed Martin
 ## Completed Projects
 #### Real-time Raytracer
 Final group project for my Computer Graphics (CAP4720) course: https://observablehq.com/d/3517bd61d2e87b9a
+#### MERN Stack Morse Code Translator/Messenger
+#### LAMP Stack Contact Manager
 
 ## Learning
 Sharpening skills in Python, particularly in machine learning
