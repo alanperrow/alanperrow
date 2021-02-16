@@ -4,6 +4,9 @@ Computer Science (B.S.) - Spring 2021
 ## Current Project
 #### Reinforcement Learning Bots with OpenAI Gym
 Senior Design team project sponsored by Lockheed Martin
+#### Linux/Unix shell programming in C++
+
+#### Java applications with event-driven programming
 
 ## Completed Projects
 #### Real-time Raytracer
@@ -13,10 +16,6 @@ Final group project for my Computer Graphics (CAP4720) course: https://observabl
 
 ## Learning
 Sharpening skills in Python, particularly in machine learning
-
-Linux/Unix shell programming in C
-
-Java applications with event-driven programming
 
 Applying skills learned from Observable and REGL to other graphic libararies such as OpenGL and WebGL
 
