@@ -9,10 +9,20 @@ Senior Design team project sponsored by Lockheed Martin
 #### Java applications with event-driven programming
 
 ## Completed Projects
+#### Machine Learning Prediction Models
+Decision Tree for predicting bankrupty, k Nearest Neighbors model for predicting wine quality, Naive Bayes model for predicting malignant tumors, ...
+
 #### Real-time Raytracer
 Final group project for my Computer Graphics (CAP4720) course: https://observablehq.com/d/3517bd61d2e87b9a
+
 #### MERN Stack Morse Code Translator/Messenger
+Sends and translates a user’s messages from English to Morse code, to be received and translated back to English by another user.
+
 #### LAMP Stack Contact Manager
+Manages users’ associated list of contacts and their info with CRUD operations.
+
+#### PL/0 Compiler
+Compiler for the simple programming language PL/0 written in C. Compilation process includes: lexical analyzer, parser, code gen. Executes on a stack-based virtual machine.
 
 ## Learning
 Sharpening skills in Python, particularly in machine learning
