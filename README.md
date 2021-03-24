@@ -29,6 +29,8 @@ Sharpening skills in Python, particularly in machine learning
 
 Applying skills learned from Observable and REGL to other graphic libararies such as OpenGL and WebGL
 
+Reapplying web-dev skills to create a personal portfolio.
+
 <!--
 **alanperrow/alanperrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
