@@ -9,8 +9,16 @@ Senior Design team project sponsored by Lockheed Martin
 #### Java applications with event-driven programming
 
 ## Completed Projects
-#### Machine Learning Prediction Models
-Decision Tree for predicting bankrupty, k Nearest Neighbors model for predicting wine quality, Naive Bayes model for predicting malignant tumors, ...
+#### Machine Learning Prediction Models using Scikit-learn library
+ * Decision Tree for predicting bankrupty
+ * k Nearest Neighbors model for predicting wine quality
+ * Naive Bayes model for predicting malignant tumors
+ * ...
+
+#### Enterprise Computing with Java
+ * GUI application that simulates an e-store, including: stocking, shopping cart, invoice creation, and transaction log output
+ * Bank account simulation made with synchronized threads, including deposits and withdrawals
+ * GUI application that uses JDBC to allow interaction between a Java GUI client and a locally hosted mySQL server
 
 #### Real-time Raytracer
 Final group project for my Computer Graphics (CAP4720) course: https://observablehq.com/d/3517bd61d2e87b9a
