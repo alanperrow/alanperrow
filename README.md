@@ -18,7 +18,7 @@ Senior Design team project sponsored by Lockheed Martin
 #### Enterprise Computing with Java
  * GUI application that simulates an e-store, including: stocking, shopping cart, invoice creation, and transaction log output
  * Bank account simulation made with synchronized threads, including deposits and withdrawals
- * GUI application that uses JDBC to allow interaction between a Java GUI client and a locally hosted mySQL server
+ * GUI client application that allows SQL queries and updates to interact with a locally hosted mySQL server
 
 #### Real-time Raytracer
 Final group project for my Computer Graphics (CAP4720) course: https://observablehq.com/d/3517bd61d2e87b9a
