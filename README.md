@@ -13,7 +13,7 @@ Senior Design team project sponsored by Lockheed Martin
  * Decision Tree for predicting bankrupty
  * k Nearest Neighbors model for predicting wine quality
  * Naive Bayes model for predicting malignant tumors
- * Ordinal Least Squares model for predicting median house value
+ * Ordinary Least Squares model for predicting median house value
  * ...
 
 #### Enterprise Computing with Java
