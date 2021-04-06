@@ -4,7 +4,9 @@ Computer Science (B.S.) - Spring 2021
 ## Current Project
 #### Reinforcement Learning Bots with OpenAI Gym
 Senior Design team project sponsored by Lockheed Martin
-#### Linux/Unix shell programming in C++
+
+#### Linux/Unix shell in C++
+Allows for basic shell operations in a Linux/Unix environment's CLI: https://github.com/alanperrow/COP4600-mysh
 
 #### Java applications with event-driven programming
 
