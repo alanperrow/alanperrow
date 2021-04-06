@@ -13,6 +13,7 @@ Senior Design team project sponsored by Lockheed Martin
  * Decision Tree for predicting bankrupty
  * k Nearest Neighbors model for predicting wine quality
  * Naive Bayes model for predicting malignant tumors
+ * Ordinal Least Squares model for predicting median house value
  * ...
 
 #### Enterprise Computing with Java
@@ -24,7 +25,7 @@ Senior Design team project sponsored by Lockheed Martin
 Final group project for my Computer Graphics (CAP4720) course: https://observablehq.com/d/3517bd61d2e87b9a
 
 #### MERN Stack Morse Code Translator/Messenger
-Sends and translates a user’s messages from English to Morse code, to be received and translated back to English by another user.
+Web and mobile app that sends and translates a user’s messages from English to Morse code, to be received and translated back to English by another user.
 
 #### LAMP Stack Contact Manager
 Manages users’ associated list of contacts and their info with CRUD operations.
