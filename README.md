@@ -5,8 +5,6 @@ Computer Science (B.S.) - Spring 2021
 #### Reinforcement Learning Bots with OpenAI Gym
 Senior Design team project sponsored by Lockheed Martin
 
-#### Java applications with event-driven programming
-
 ## Completed Projects
 #### Machine Learning Prediction Models using Scikit-learn library
  * Decision Tree for predicting bankrupty
