@@ -8,9 +8,9 @@ Senior Design team project sponsored by Lockheed Martin
 ## Completed Projects
 #### Machine Learning Prediction Models using Scikit-learn library
  * Decision Tree for predicting bankrupty
- * k Nearest Neighbors model for predicting wine quality
+ * K Nearest Neighbors model for predicting wine quality
  * Naive Bayes model for predicting malignant tumors
- * Ordinary Least Squares model for predicting median house value
+ * Ordinary Least Squares linear regression model for predicting median house value
  * Convolutional Neural Network model for predicting lung damage type from x-ray images 
 
 #### Linux/Unix shell in C++
