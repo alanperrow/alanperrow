@@ -2,16 +2,19 @@
 Computer Science (B.S.) - Spring 2021
 
 ## Current Project
-#### Reinforcement Learning Bots with OpenAI Gym
-Senior Design team project sponsored by Lockheed Martin
+#### Personal Portfolio
+Reapplying web-dev skills to create a personal portfolio showcasing my best work.
 
 ## Completed Projects
+#### Reinforcement Learning Bots with OpenAI Gym
+Senior Design team project sponsored by Lockheed Martin: https://github.com/bleheup/FallGroup20-21
+
 #### Machine Learning Prediction Models using Scikit-learn library
- * Decision Tree for predicting bankrupty
- * K Nearest Neighbors model for predicting wine quality
- * Naive Bayes model for predicting malignant tumors
- * Ordinary Least Squares linear regression model for predicting median house value
- * Convolutional Neural Network model for predicting lung damage type from x-ray images 
+ * Decision Tree for predicting bankrupty: [Kaggle notebook link](https://www.kaggle.com/alanperrow/alan-perrow-assignment-1)
+ * K Nearest Neighbors model for predicting wine quality: [Colab notebook link](https://colab.research.google.com/drive/1uMyt2k9OqMpBDrQhBMOcKNiInfVk9xrt?usp=sharing)
+ * Naive Bayes model for predicting malignant tumors: [Colab notebook link](https://colab.research.google.com/drive/18rHumTybSMITW3ZzbitvcFV_w6CdPb78?usp=sharing)
+ * Ordinary Least Squares linear regression model for predicting median house value: [Colab notebook link](https://colab.research.google.com/drive/1QXNEHw8o-UkOG60Spv_uKmQHI3qB4NIe?usp=sharing)
+ * Convolutional Neural Network model for predicting lung damage type from x-ray images: [Colab notebook link](https://colab.research.google.com/drive/1Xxr1cyEmSBSsqnbaOzE2cBnWM4409rVF?usp=sharing)
 
 #### Linux/Unix shell in C++
 Allows for basic shell operations in a Linux/Unix environment's CLI: https://github.com/alanperrow/COP4600-mysh
@@ -38,8 +41,6 @@ Compiler for the simple programming language PL/0 written in C. Compilation proc
 Sharpening skills in Python, particularly in machine learning
 
 Applying skills learned from Observable and REGL to other graphic libararies such as OpenGL and WebGL
-
-Reapplying web-dev skills to create a personal portfolio.
 
 <!--
 **alanperrow/alanperrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
