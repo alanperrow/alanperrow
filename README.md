@@ -29,10 +29,10 @@ Allows for basic shell operations in a Linux/Unix environment's CLI: https://git
 Final group project for my Computer Graphics (CAP4720) course: https://observablehq.com/d/3517bd61d2e87b9a
 
 #### MERN Stack Morse Code Translator/Messenger
-Web and mobile app that sends and translates a user’s messages from English to Morse code, to be received and translated back to English by another user.
+Web and mobile app that sends and translates a user’s messages from English to Morse code, to be received and translated back to English by another user: https://github.com/oamer6/Group-9
 
 #### LAMP Stack Contact Manager
-Manages users’ associated list of contacts and their info with CRUD operations.
+Manages users’ associated list of contacts and their info with CRUD operations: https://github.com/ReaganChapman/Group-9-COP4331
 
 #### PL/0 Compiler
 Compiler for the simple programming language PL/0 written in C. Compilation process includes: lexical analyzer, parser, code gen. Executes on a stack-based virtual machine.
