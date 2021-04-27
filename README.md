@@ -23,7 +23,10 @@ Allows for basic shell operations in a Linux/Unix environment's CLI: https://git
  * GUI application that simulates an e-store, including: stocking, shopping cart, invoice creation, and transaction log output
  * Bank account simulation made with synchronized threads, including deposits and withdrawals
  * GUI client application that allows SQL queries and updates to interact with a locally hosted mySQL server
- * ...
+ * Three-tier distributed web-app for executing MySQL queries and updates through a browser onto a remote database, updating certain data via business logic. Architecture consists of:
+   * front-end HTML/JSP webpage
+   * Tomcat container for servlet and business logic
+   * back-end MySQL database server
 
 #### Real-time Raytracer
 Final group project for my Computer Graphics (CAP4720) course: https://observablehq.com/d/3517bd61d2e87b9a
