@@ -3,7 +3,7 @@ Computer Science (B.S.) - Spring 2021
 
 ## Current Project
 #### Personal Portfolio
-Reapplying web-dev skills to create a personal portfolio showcasing my best work.
+Reapplying web-dev skills to create a personal portfolio showcasing my best work: https://alanperrow.github.io
 
 ## Completed Projects
 #### Reinforcement Learning Bots with OpenAI Gym
