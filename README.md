@@ -5,6 +5,9 @@ Computer Science (B.S.) - Spring 2021
 #### Personal Portfolio
 Reapplying web-dev skills to create a personal portfolio showcasing my best work: https://alanperrow.github.io
 
+#### Modding for Stardew Valley
+Creating C# content patching/injection mods for the game Stardew Valley: https://github.com/alanperrow/StardewModding
+
 ## Completed Projects
 #### Reinforcement Learning Bots with OpenAI Gym
 Senior Design team project sponsored by Lockheed Martin: https://github.com/bleheup/FallGroup20-21
