@@ -1,10 +1,7 @@
-### University of Central Florida
-Computer Science (B.S.) - Spring 2021
+## About Me
+Full-time software engineer, part-time hobbyist interested in game development, music production, graphics, and machine learning.
 
 ## Current Project
-#### Personal Portfolio
-Reapplying web-dev skills to create a personal portfolio showcasing my best work: https://alanperrow.github.io
-
 #### Modding for Stardew Valley
 Creating C# content patching/injection mods for the game Stardew Valley: https://github.com/alanperrow/StardewModding
 
@@ -44,9 +41,11 @@ Manages users’ associated list of contacts and their info with CRUD operations
 Compiler for the simple programming language PL/0 written in C. Compilation process includes: lexical analyzer, parser, code gen. Executes on a stack-based virtual machine.
 
 ## Learning
-Sharpening skills in Python, particularly in machine learning
+Personal Portfolio: Reapplying web-dev skills to create a personal portfolio showcasing my best work: https://alanperrow.github.io
 
-Applying skills learned from Observable and REGL to other graphic libararies such as OpenGL and WebGL
+Sharpening skills in Python, particularly in machine learning.
+
+Applying skills learned from Observable and REGL to other graphic libararies such as OpenGL and WebGL.
 
 <!--
 **alanperrow/alanperrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
